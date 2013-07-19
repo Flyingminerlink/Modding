@@ -1,4 +1,4 @@
-package Modding.tut
+package Modding.tut;
 //importing
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
